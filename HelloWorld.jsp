@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<b>Hello World NaverCloudPlatform Source Pipeline - V1.2</b>
+	<b>Hello World NaverCloudPlatform Source Pipeline - V1.3</b>
 	
 </body>
 </html>
